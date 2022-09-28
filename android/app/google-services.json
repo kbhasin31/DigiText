@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544894031739",
+    "project_id": "digi-text",
+    "storage_bucket": "digi-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544894031739:android:ff7c80b1af9db042f80fde",
+        "android_client_info": {
+          "package_name": "com.example.flutter_voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544894031739-idfv8lt79v6rjl27qekk7q0ao47j5pm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lMlZzHN5IgE9xzY3vZQ3KeMK96f_a3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544894031739-idfv8lt79v6rjl27qekk7q0ao47j5pm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
